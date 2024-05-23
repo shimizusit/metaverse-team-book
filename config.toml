@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://shimizusit.github.io"
+base_url = "https://shimizusit.github.io/metaverse-team-book"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
